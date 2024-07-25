@@ -60,4 +60,10 @@ export default [
     layout: false,
     component: './404',
   },
+  {
+    path: '/chef_list',
+    name: 'chef-list',
+    icon: 'UsergroupAddOutlined',
+    component: './ChefList',
+  },
 ];
