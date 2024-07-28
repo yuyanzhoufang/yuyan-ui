@@ -15,7 +15,7 @@ const Settings: ProLayoutProps & {
   fixedHeader: false,
   fixSiderbar: true,
   colorWeak: false,
-  title: 'yuyan ui',
+  title: '趣味厨房后台管理系统',
   pwa: true,
   logo: '/logo.jpg',
   iconfontUrl: '',
